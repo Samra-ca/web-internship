@@ -1,1 +1,1 @@
-# web-intership
+# web-internship
