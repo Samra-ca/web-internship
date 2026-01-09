@@ -62,6 +62,7 @@ I have merged up both tasks and then deployed through VERCEL
 - How to validate form inputs
 - How to store and retrieve data using localStorage
 - Importance of clean file structure and code separation
+- How to deploy project on vercel and see live changes
 
 ---
  
