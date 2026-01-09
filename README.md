@@ -37,6 +37,10 @@ In Task-2, JavaScript functionality was added on top of the existing UI.
 - Storing login data in browser Local Storage
 - Auto-fill email field on page reload
 - Clean separation of HTML, CSS, and JavaScript
+  
+---
+
+I have merged up both tasks and then deployed through VERCEL
 
 ---
 
@@ -47,6 +51,7 @@ In Task-2, JavaScript functionality was added on top of the existing UI.
 - Browser Local Storage
 - Font Awesome
 - Google Fonts
+- Vercel for Deployment
 
 ---
 
